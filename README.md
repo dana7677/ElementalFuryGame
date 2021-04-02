@@ -1,6 +1,8 @@
 # ElementalFuryGame
 ## My final degree project where I put all my knowledge into practice:
 
+The game was developed by 2 classmates and I, the scope of the game's programming was the part that I carried out.
+
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
 [![C_Sharp](https://img.shields.io/badge/Coding-239120?style=for-the-badge&logo=C-Sharp&logoColor=blueviolet&labelColor=101010)]()
 [![Counter-Strike](https://img.shields.io/badge/FPS-000000?style=for-the-badge&logo=Counter-Strike&logoColor=white&labelColor=101010)]()
