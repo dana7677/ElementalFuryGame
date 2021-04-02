@@ -1,5 +1,5 @@
 # ElementalFuryGame
-My final degree project where I put all my knowledge into practice.
+## My final degree project where I put all my knowledge into practice:
 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
 [![C_Sharp](https://img.shields.io/badge/Coding-239120?style=for-the-badge&logo=C-Sharp&logoColor=blueviolet&labelColor=101010)]()
