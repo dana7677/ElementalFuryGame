@@ -1,5 +1,6 @@
 # ElementalFuryGame
 My final degree project where I put all my knowledge into practice.
+
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101110)]()
 [![C_Sharp](https://img.shields.io/badge/Coding-239120?style=for-the-badge&logo=C-Sharp&logoColor=white&labelColor=101010)]()
 [![Counter-Strike](https://img.shields.io/badge/FPS-000000?style=for-the-badge&logo=Counter-Strike&logoColor=white&labelColor=101010)]()
