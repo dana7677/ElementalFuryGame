@@ -13,7 +13,7 @@ The game was developed by 2 classmates and I, the scope of the game's programmin
 [![OpenAI](https://img.shields.io/badge/VFX_Shaders-412991?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=101010)]()
 [![Awesome_Lists](https://img.shields.io/badge/variety_shots-FC60A8?style=for-the-badge&logo=Awesome-Lists&logoColor=white&labelColor=101010)]()
 [![Riot_Games](https://img.shields.io/badge/MotionControll_Skills-D32936?style=for-the-badge&logo=Riot-Games&logoColor=white&labelColor=101010)]()
-[![Atari](https://img.shields.io/badge/Hud-Ui-E4202E?style=for-the-badge&logo=Atari&logoColor=white&labelColor=101010)]()
+[![Atari](https://img.shields.io/badge/Hud_Ui-E4202E?style=for-the-badge&logo=Atari&logoColor=white&labelColor=101010)]()
 
 ## The Download of the videogame:
 
