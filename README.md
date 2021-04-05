@@ -17,6 +17,6 @@ The game was developed by 2 classmates and I, the scope of the game's programmin
 
 ## The Download of the videogame:
 
-[![Game_Jolt](https://img.shields.io/badge/Download_The_Game-CCFF00?style=for-the-badge&logo=Game-Jolt&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1OsYMD3ABLi0mIHZOKY7Kxrz201c2I7t2/view)
+[![Game_Jolt](https://img.shields.io/badge/Click_To_Download_The_Game-CCFF00?style=for-the-badge&logo=Game-Jolt&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1OsYMD3ABLi0mIHZOKY7Kxrz201c2I7t2/view)
 
 I had problems when uploading the project to github due to the size, here I leave a link to the download, I hope you like it.
